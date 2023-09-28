@@ -2,9 +2,9 @@ Link to unlisted YouTube video: https://youtu.be/5ZIIiqI2kTM
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 
-PDF: PDF: https://drive.google.com/file/d/1hCKNR8U10tD0iYdXCdocDSX1gDJDSuX1/view?fbclid=IwAR3EKHCFqwAYZhOnNX3hqNNsIu-hpHkVX1_wWFVxqLxlH1_7hHbaJQdxocI
+PDF:  https://drive.google.com/file/d/1onhlSrQ1-rF8SXfNg01iORWMTvvQ79vY/view?usp=sharing
 
-Native/original format: https://draw.io/...
+Native/original format: https://drive.google.com/file/d/1_VaTUp0vMyxMEILDDIdsierWs4GCvMmW/view?usp=sharing
 
 Name, Author, Edition, year, and publisher of the Book: Speech and Language Processing Jurafsky 3rd edition 2014 Pearson
 
